@@ -18,7 +18,7 @@ public class TunnelSoundBlock extends Block {
     public static final int LOOP_TICKS = 293;
 
     // 1.0 = audible up to about 16 blocks. 2.0 = about 32 blocks, 4.0 = about 64 blocks.
-    public static final float VOLUME = 1.0f;
+    public static final float VOLUME = 8.0f;
 
     public TunnelSoundBlock(Settings settings) {
         super(settings);
