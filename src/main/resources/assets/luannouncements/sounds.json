@@ -1,0 +1,7 @@
+{
+  "train_tunnel_sound": {
+    "sounds": [
+      { "name": "luannouncements:train_tunnel_sound" }
+    ]
+  }
+}
